@@ -58,11 +58,10 @@ A continuación se muestra un ejemplo de las gráficas de regresión generadas e
 
 ---
 
-## 📌 Notas importantes
+## ⚠️ Aviso importante
 
-- Las credenciales de la base de datos se gestionan mediante un archivo `.env` (no se suben al repositorio por seguridad).
-- Se recomienda implementar inicialmente la **Meta Moderada**, por ser un objetivo alcanzable y sostenible.
-- El análisis se realizó con datos agrupados semanalmente para mayor robustez estadística.
+**Todos los datos, cifras y resultados presentados en este repositorio son de carácter demostrativo / de prueba.**  
+No corresponden a información real de operación.
 
 ---
 
